@@ -30,7 +30,7 @@ function addGooseElement() {
 function showGooseAnim() {
     const gooseEl = document.querySelector('.gus-anim');
 
-    gooseEl.setAttribute('src', './img/gus-anim.gif');
+    gooseEl.setAttribute('src', 'gus-anim.gif');
     
 
     setTimeout(() => {
