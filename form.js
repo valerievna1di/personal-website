@@ -28,7 +28,7 @@ function addGooseElement() {
 }
 
 function showGooseAnim() {
-    const gooseEl = document.querySelector('.gus-anim');
+    const gooseEl = document.querySelector('gus-anim');
 
     gooseEl.setAttribute('src', 'gus-anim.gif');
     
